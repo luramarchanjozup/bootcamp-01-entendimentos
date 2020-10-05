@@ -54,3 +54,6 @@ Funcionalidades implementadas em relação as tecnologias implementadas como:
 Java e todo ambiente Spring é algo novo para mim no ponto de visto profissional, passei um ano e meio trabalhando com NodeJs e antes disso PHP, mas essa transição esta sendo bem tranquila e já me sinto totalmente adaptado a linguagem, pois foi mais relembrar alguns conceitos de tempo de faculdade.
 
 Estou mais ansioso para aprofundar nas funcionalidades do ultimo desafio que é aonde tem as funcionalidades que quero aprender nesse BootCamp, vai ser um momento de grande aprendizagem e vai ser o momento onde conseguirei aproveitar o máximo os mentores e todo conhecimento que eles tem para passar.
+
+### Daily do dia do trabalho
+[Daily Sprint Logs](https://www.notion.so/carloseduardo12/Daily-Sprint-Logs-3becb7899e414173898026e632b270f6)
